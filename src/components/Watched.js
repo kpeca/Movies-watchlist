@@ -1,5 +1,11 @@
 import React from "react";
 
-export const Watched = () => {
-  return <div></div>;
+const Watched = () => {
+  return (
+    <div>
+      <h1>This is watched</h1>
+    </div>
+  );
 };
+
+export default Watched;
